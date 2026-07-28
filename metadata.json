@@ -1,0 +1,6 @@
+{
+  "name": "MoneyVerse",
+  "description": "Earn money, play games, complete tasks, spin wheel, withdraw via bKash/Nagad/Rocket/Bank, and manage rewards with built-in Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
